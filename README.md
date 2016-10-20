@@ -1,11 +1,10 @@
 # Mower Safety
 
 1. Heartbeat
-  a. MAVLink
-  b. Internet 
+  1. MAVLink
+  2. Internet 
 2. Kill Switches
-  a. remote kill
-  b. physical kill switch
+  1. remote kill
+  2. physical kill switch
 3. Guidance System
-
 4. Gasoline shutoff 
